@@ -1,0 +1,225 @@
+Laboratory Experiments: Closed-Ended Prompts and Open-Ended Prompts
+
+Experiment 2(a) : Closed-Ended Prompts
+
+Experiment Title: Design and Evaluate Closed-Ended Prompts for AI-Based Question Answering Systems
+
+Aim: To create and evaluate Closed-Ended prompts that produce specific and accurate responses from a Large Language Model (LLM).
+
+Objectives:
+
+After completing this experiment, students will be able to:
+
+* Understand the concept of Closed-Ended prompts.
+* Design prompts that generate specific answers.
+* Analyze the accuracy of AI-generated responses.
+* Apply Closed-Ended prompts in question-answering applications.
+
+Software Requirements:
+
+* ChatGPT / Gemini / Claude / Microsoft Copilot
+* Internet Connection
+* Web Browser
+
+Description: A Closed-Ended Prompt is a prompt that asks for a specific, factual, or limited response. The expected answer is usually a single word, a number, "Yes/No," or a short sentence. These prompts reduce ambiguity and are commonly used in AI-powered search engines, chatbots, examination systems, and virtual assistants.
+
+Algorithm:
+
+1. Open an AI language model.
+2. Create a factual question.
+3. Submit the prompt.
+4. Record the AI response.
+5. Verify the correctness of the response.
+6. Modify the prompt if necessary.
+7. Compare responses from different prompts.
+8. Document the observations.
+
+Experimental Procedure
+
+Step 1: Open ChatGPT.
+
+Step 2: Enter the following prompt:
+
+```
+What is the capital of Telangana?
+```
+
+Step 3: Record the response.
+
+Step 4: Try another prompt.
+
+```
+What is the full form of CPU?
+```
+Step 5: Continue with multiple prompts and record the responses.
+
+Laboratory Experiment**
+
+Complete the following table.
+
+| S.No | Prompt                                                                    | Expected Response   | AI Response | Correct (✓/✗) |
+| ---- | ------------------------------------------------------------- | --------------------------| --------------- | ------------------ |
+| 1    | What is 15 × 12?                                                       | 180                             |                      |                          |
+| 2    | Who invented Python?                                              | Guido van Rossum    |                      |                          |
+| 3    | Is Java object-oriented?                                             | Yes                            |                      |                          |
+| 4    | What is the SI unit of Force?                   		    | Newton                      |                      |                          |
+| 5    | How many bits are in one byte?                                | 8                                |                      |                          |
+| 6    | Which protocol is used for secure web browsing?    | HTTPS                      |                      |                          |
+| 7    | What does RAM stand for?                                      | Random Access Memory |               |                          |
+| 8    | Which planet is called the Red Planet?                    | Mars                          |                      |                          |
+| 9    | What is the binary value of decimal 5?                    | 101                            |                      |                          |
+| 10   | What is the default port number of HTTP?             | 80                              |                      |                          |
+
+---
+
+Analysis Questions
+
+1. Was the response accurate?
+2. Was the answer concise?
+3. Did the AI provide additional information?
+4. Did changing the wording affect the response?
+5. Which prompts produced the fastest responses?
+
+Applications
+
+* AI Chatbots
+* Virtual Assistants
+* Online Examination Systems
+* Customer Support
+* FAQ Systems
+* Voice Assistants
+* Search Engines
+
+
+Expected Outcome: Students learn how Closed-Ended prompts produce precise, short, and factual responses suitable for automated question-answering systems.
+
+---
+
+Experiment 2(b): Open-Ended Prompts
+
+Experiment Title: Design and Evaluate Open-Ended Prompts for Creative Content Generation Using Large Language Models
+
+Aim: To design Open-Ended prompts that generate creative, descriptive, and detailed responses using AI.
+
+Objectives:
+
+After completing this experiment, students will be able to:
+
+* Understand Open-Ended prompts.
+* Create prompts for detailed responses.
+* Analyze creativity and quality of AI-generated content.
+* Compare different prompt designs.
+
+Software Requirements:
+
+* ChatGPT / Gemini / Claude / Microsoft Copilot
+* Internet Connection
+* Browser
+
+Description: An Open-Ended Prompt encourages the AI to generate detailed explanations, creative ideas, stories, reports, summaries, or code. There may be multiple valid responses. These prompts are widely used in content generation, education, programming assistance, brainstorming, and creative writing.
+
+Algorithm
+
+1. Open ChatGPT.
+2. Write an Open-Ended prompt.
+3. Submit the prompt.
+4. Read the generated response.
+5. Modify the prompt by adding more context.
+6. Compare both outputs.
+7. Record observations.
+8. Evaluate creativity and completeness.
+
+Experimental Procedure
+
+Step 1: Enter the following prompt.
+
+```
+Explain Artificial Intelligence with a real-life example.
+```
+
+Step 2: Observe the response.
+
+Step 3:Modify the prompt.
+
+```
+Explain Artificial Intelligence to first-year engineering students using simple language and real-life examples.
+```
+
+Step 4: Compare the responses.
+
+Laboratory Experiment
+
+Perform the following experiments.
+
+| S.No | Prompt                                                                                | Observation  |
+| ---- | ---------------------------------------------------------------------- | --------------- |
+| 1    | Explain Machine Learning with examples.                           |                      |
+| 2    | Write a short story about a helpful robot.                             |                      |
+| 3    | Describe the future of Artificial Intelligence.                       |                      |
+| 4    | Generate five innovative business ideas using AI.                |                      |
+| 5    | Explain cloud computing to school students.                        |                      |
+| 6    | Write Python code to find prime numbers.                           |                     |
+| 7    | Summarize the importance of cybersecurity.                        |                      |
+| 8    | Create a lesson plan on Prompt Engineering.                       |                      |
+| 9    | Write a motivational speech for engineering students.         |                      |
+| 10  | Prepare a project proposal on Smart Agriculture using AI.  |                      |
+
+Prompt Modification Activity
+
+Prompt 1
+
+```
+Explain Machine Learning.
+```
+Prompt 2
+
+```
+Explain Machine Learning using real-life examples, diagrams (if possible), and simple language suitable for first-year engineering students.
+```
+Observation
+
+* Compare response length.
+* Compare response quality.
+* Compare clarity.
+* Compare usefulness.
+
+Evaluation Parameters
+
+| Parameter                 | Rating (1–5) |
+| -------------------------| --------------- |
+| Relevance                |                      |
+| Accuracy                 |                      |
+| Creativity                 |                     |
+| Completeness          |                     |
+| Clarity                     |                     |
+| Context Awareness |                     |
+
+Applications
+
+* Report Generation
+* Story Writing
+* Code Generation
+* Email Writing
+* Lesson Planning
+* Research Assistance
+* Documentation
+* Brainstorming
+* Translation
+* Content Creation
+
+
+Viva Questions
+
+1. What is a Closed-Ended prompt?
+2. What is an Open-Ended prompt?
+3. Give two examples of Closed-Ended prompts.
+4. Give two examples of Open-Ended prompts.
+5. Which prompt type is suitable for creative writing?
+6. Why are Closed-Ended prompts used in chatbots?
+7. What is prompt specificity?
+8. How does context improve prompt quality?
+9. What are the applications of Open-Ended prompts?
+10. Compare Closed-Ended and Open-Ended prompts with examples.
+
+
+Expected Result: Closed-Ended Prompt Students successfully design prompts that generate precise and factual responses, demonstrating their effectiveness in question-answering systems. Open-Ended Prompt Students successfully create prompts that produce detailed, creative, and context-aware outputs, demonstrating their usefulness in language generation, content creation, and educational applications.
